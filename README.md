@@ -11,7 +11,7 @@
       </a>
     </p>
     <p>Focusing on Network 🛜 and Web development 🌐</p>
-    <h2>Languages </h2>
+    <h2>Programming Languages </h2>
     <table>
       <tbody>
         <tr>
@@ -33,7 +33,7 @@
         </tr>
       </tbody>
     </table>
-    <h2>DevOPs </h2>
+    <h2>DevOps </h2>
     <table>
       <tbody>
         <tr>
