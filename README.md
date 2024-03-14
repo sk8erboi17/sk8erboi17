@@ -6,7 +6,7 @@
   <body>
     <h2>Giuseppe, 20 years old 🛹 </h2>
     <p> Going crazy learning on C 💾 and Scala <a href="https://emoji.gg/emoji/6300-scala"><img src="https://cdn3.emoji.gg/emojis/6300-scala.png" width="16px" height="16px" alt="scala"></a> </p>
-    <p>As a Mathematics student and undeniable passion for Computer Science.</p>
+    <p>A Mathematics student with an undeniable passion for Computer Science.</p>
     <h2>Skills 💡</h2>
     <table>
   <tbody>
