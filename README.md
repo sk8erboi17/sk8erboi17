@@ -25,10 +25,10 @@
     <table>
       <tbody>
         <tr>
-          <td>SQL 🐬</td>
+          <td>PostgreSQL 🐬</td>
         </tr>
         <tr>
-          <td>NoSQL 🍀</td>
+          <td>MongoDB 🍀</td>
         </tr>
       </tbody>
     </table>
