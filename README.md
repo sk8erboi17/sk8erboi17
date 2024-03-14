@@ -5,7 +5,7 @@ html>
   </head>
   <body>
     <h2>Giuseppe, 20 years old 🛹 </h2>
-    <p> Going crazy on C 💾 and Scala <a href="https://emoji.gg/emoji/6300-scala"><img src="https://cdn3.emoji.gg/emojis/6300-scala.png" width="64px" height="64px" alt="scala"></a> </p>
+    <p> Going crazy on C 💾 and Scala <a href="https://emoji.gg/emoji/6300-scala"><img src="https://cdn3.emoji.gg/emojis/6300-scala.png" width="32px" height="32px" alt="scala"></a> </p>
     <p> Software Engineer .</p>
     <h2>Skills 💡</h2>
     <table>
