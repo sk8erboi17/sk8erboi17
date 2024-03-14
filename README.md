@@ -1,8 +1,8 @@
 <html>
   <head>
     <meta charset="UTF-8">
-  </head>
-  <style>
+
+      <style>
   body {
     font-family: 'Arial', sans-serif;
     background-color: #f0f0f0;
@@ -55,6 +55,9 @@
     margin-right: 5px;
   }
 </style>
+
+  </head>
+
   <body>
     <h3>Giuseppe, 20 years old 🛹 </h3>
     <p> Going crazy learning on C 💾 and Scala <a href="https://emoji.gg/emoji/6300-scala"><img src="https://cdn3.emoji.gg/emojis/6300-scala.png" width="16px" height="16px" alt="scala"></a> </p>
