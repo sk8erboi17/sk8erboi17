@@ -4,8 +4,8 @@
   </head>
   <body>
     <h3>Giuseppe, 20 years old 🛹 </h3>
+        <i>Because also if the world was coming to an end, I don’t close my eyes without feeling like I lived. ~ MGK, Downfalls High</i>
     <h4>A Mathematics student with an undeniable passion for Computer Science.</h4>
-    <i>Because also if the world was coming to an end, I don’t close my eyes without feeling like I lived. ~ MGK, Downfalls High</i>
     <p> Going crazy learning on C 💾 and Scala <a href="https://emoji.gg/emoji/6300-scala">
         <img src="https://cdn3.emoji.gg/emojis/6300-scala.png" width="16px" height="16px" alt="scala">
       </a>
