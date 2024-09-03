@@ -5,7 +5,7 @@
   <body>
     <h3>Giuseppe, 21 years old 🛹 </h3>
     <i>Because also if the world was coming to an end, I don’t close my eyes without feeling like I lived. ~ MGK, Downfalls High</i>
-    <h3>A Mathematics student ♾️ with a passion for Computer Science 💻</h3>
+    <h3>A Computer Science with a passion for Mathematics ♾️</h3>
     <h2>Programming Languages </h2>
     <table>
       <tbody>
