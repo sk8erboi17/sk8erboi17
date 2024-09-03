@@ -34,8 +34,5 @@
         <tr>
           <td>Docker 🐋</td>
         </tr>
-        <tr>
-          <td>Kubernetes ⚓</td>
-        </tr>
       </tbody>
     </table>
