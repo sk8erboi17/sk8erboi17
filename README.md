@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div style="text-align: center;">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Giuseppe+Perrotta+👋;Computer+Science+Student+💻;Software+Engineer+🔧;" alt="Typing SVG" />
-    </div>
 <br/>
     <header style="text-align: center;">
     </header>
