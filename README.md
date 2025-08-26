@@ -11,7 +11,6 @@
     </div>
 <br/>
     <header style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=giuseppe-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=64FFDA&text_color=8B949E" alt="GitHub Stats" />
     </header>
 <br/>
     <section>
@@ -85,32 +84,6 @@
                     <figcaption><strong>Git</strong></figcaption>
                 </figure>
             </div>
-            <div style="flex: 1; min-width: 200px; text-align: center;">
-                <h3>🎯 Exploring</h3>
-                <br/>
-                <figure style="margin: 10px 0;">
-                    <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux"/>
-                    <figcaption><strong>Linux</strong></figcaption>
-                </figure>
-                <figure style="margin: 10px 0;">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" width="60" height="60" alt="Assembly"/>
-                    <figcaption><strong>Assembly</strong></figcaption>
-                </figure>
-            </div>
-        </div>
-    </section>
-    <br/>
-    <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #64FFDA, transparent);"/>
-    <br/>
-    <section>
-        <h2 style="text-align: center;">📊 GitHub Analytics</h2>
-        <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; text-align: center;">
-            <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuseppe-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=8B949E" alt="Top Languages"/>
-            <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=giuseppe-username&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" alt="GitHub Streak"/>
-        </div>
-        <br/>
-        <div style="text-align: center;">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=giuseppe-username&theme=tokyo-night&bg_color=0D1117&color=8B949E&line=A855F7&point=64FFDA&area=true&hide_border=true" alt="GitHub Activity Graph"/>
         </div>
     </section>
     <br/>
@@ -131,30 +104,9 @@
                     </a>
                 </li>
                 <li>
-                    <a href="mailto:giuseppe.perrotta@email.com">
-                        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-                    </a>
                 </li>
             </ul>
         </nav>
-        <br/>
-        <div style="text-align: center;">
-            <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer Banner"/>
-        </div>
-        <br/>
-        <div style="text-align: center;">
-            <br/>
-            <strong>📬 Open for collaborations and interesting projects!</strong>
-            <br/><br/>
-            <a href="https://t.me/realsk8erboi17">
-                <img src="https://img.shields.io/badge/Contact%20Me-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FF6B6B" alt="Contact Me"/>
-            </a>
-        </div>
-        <br/>
-        <div style="text-align: center;">
-            <img src="https://komarev.com/ghpvc/?username=giuseppe-username&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-            <img src="https://img.shields.io/github/followers/giuseppe-username?label=Followers&style=flat-square&color=blue" alt="GitHub Followers"/>
-        </div>
         <br/>
         <div style="text-align: center;">
             <h3>💭 Random Dev Quote</h3>
