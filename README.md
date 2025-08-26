@@ -6,6 +6,7 @@
 </head>
 <body>
 <br/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Giuseppe+Perrotta+👋;Computer+Science+Student+💻;Software+Engineer+🔧;" alt="Typing SVG" />
     <header style="text-align: center;">
     </header>
 <br/>
@@ -13,7 +14,6 @@
         <h2 style="text-align: center;">About Me & Skills Overview</h2>
         <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
             <div style="width: 45%; text-align: center;">
-                <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400"/>
             </div>
             <div style="width: 45%; text-align: center;">
                 <h3>👨‍💻 About Me</h3>
