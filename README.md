@@ -45,15 +45,12 @@
                 <br/>
                 <figure style="margin: 10px 0;">
                     <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java"/>
-                    <figcaption><strong>Java</strong></figcaption>
                 </figure>
                 <figure style="margin: 10px 0;">
                     <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python"/>
-                    <figcaption><strong>Python</strong></figcaption>
                 </figure>
                 <figure style="margin: 10px 0;">
                     <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C"/>
-                    <figcaption><strong>C</strong></figcaption>
                 </figure>
             </div>
             <div style="flex: 1; min-width: 200px; text-align: center;">
@@ -61,11 +58,9 @@
                 <br/>
                 <figure style="margin: 10px 0;">
                     <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL"/>
-                    <figcaption><strong>PostgreSQL</strong></figcaption>
                 </figure>
                 <figure style="margin: 10px 0;">
                     <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/>
-                    <figcaption><strong>MongoDB</strong></figcaption>
                 </figure>
             </div>
             <div style="flex: 1; min-width: 200px; text-align: center;">
@@ -73,11 +68,9 @@
                 <br/>
                 <figure style="margin: 10px 0;">
                     <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/>
-                    <figcaption><strong>Docker</strong></figcaption>
                 </figure>
                 <figure style="margin: 10px 0;">
                     <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/>
-                    <figcaption><strong>Git</strong></figcaption>
                 </figure>
             </div>
         </div>
