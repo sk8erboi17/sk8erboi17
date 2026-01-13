@@ -1,103 +1,103 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-<br/>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Giuseppe+Perrotta+👋;Computer+Science+Student+💻;Software+Engineer+🔧;" alt="Typing SVG" />
-    <header style="text-align: center;">
-    </header>
-<br/>
-    <section>
-        <h2 style="text-align: center;">About Me & Skills Overview</h2>
-        <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
-            <div style="width: 45%; text-align: center;">
-            </div>
-            <div style="width: 45%; text-align: center;">
-                <h3>👨‍💻 About Me</h3>
-                <dl style="list-style: none; text-align: left; margin: 0; padding: 0;">
-                    <dt><strong>🎓 Age:</strong></dt>
-                    <dd style="margin-left: 20px; margin-bottom: 10px;">22 years old</dd>
-                    <dt><strong>📚 Education:</strong></dt>
-                    <dd style="margin-left: 20px; margin-bottom: 10px;">Computer Science Student</dd>
-                    <dt><strong>🧮 Passion:</strong></dt>
-                    <dd style="margin-left: 20px; margin-bottom: 10px;">Mathematics & Low-level Programming</dd>
-                    <dt><strong>🌱 Currently Learning:</strong></dt>
-                    <dd style="margin-left: 20px; margin-bottom: 10px;">System Programming & Assembly</dd>
-                    <dt><strong>💡 Interests:</strong></dt>
-                    <dd style="margin-left: 20px; margin-bottom: 10px;">Algorithms, Data Structures, Performance</dd>
-                    <dt><strong>🎯 Goal:</strong></dt>
-                    <dd style="margin-left: 20px; margin-bottom: 10px;">Building efficient and elegant solutions</dd>
-                </dl>
-            </div>
-        </div>
-    </section>
-    <br/>
-    <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #A855F7, transparent);"/>
-    <br/>
-    <section>
-        <h2 style="text-align: center;">🛠️ Tech Stack & Tools</h2>
-        <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
-            <div style="flex: 1; min-width: 200px; text-align: center;">
-                <h3>💻 Programming Languages</h3>
-                <br/>
-                <figure style="margin: 10px 0;">
-                    <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java"/>
-                </figure>
-                <figure style="margin: 10px 0;">
-                    <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python"/>
-                </figure>
-                <figure style="margin: 10px 0;">
-                    <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C"/>
-                </figure>
-            </div>
-            <div style="flex: 1; min-width: 200px; text-align: center;">
-                <h3>🗄️ Databases</h3>
-                <br/>
-                <figure style="margin: 10px 0;">
-                    <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL"/>
-                </figure>
-                <figure style="margin: 10px 0;">
-                    <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/>
-                </figure>
-            </div>
-            <div style="flex: 1; min-width: 200px; text-align: center;">
-                <h3>🔧 DevOps & Tools</h3>
-                <br/>
-                <figure style="margin: 10px 0;">
-                    <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/>
-                </figure>
-                <figure style="margin: 10px 0;">
-                    <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/>
-                </figure>
-            </div>
-        </div>
-    </section>
-    <br/>
-    <hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #A855F7, transparent);"/>
-    <br/>
-    <footer>
-        <h2 style="text-align: center;">🌐 Connect With Me</h2>
-        <nav style="text-align: center;">
-            <ul style="display: flex; justify-content: center; list-style: none; padding: 0; gap: 1rem; flex-wrap: wrap;">
-                <li>
-                    <a href="https://www.linkedin.com/in/giuseppe-perrotta03/">
-                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://t.me/realsk8erboi17">
-                        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-                    </a>
-                </li>
-            </ul>
-        </nav>
-        <br/>
-        <div style="text-align: center;">
-            <h3>💭 Random Dev Quote</h3>
-            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-        </div>
-    </footer>
-</body>
+```
+   ____  _                                         ____                      _   _        
+  / ___|(_)_   _ ___  ___ _ __  _ __   ___        |  _ \ ___ _ __ _ __ ___ | |_| |_ __ _ 
+ | |  _ | | | | / __|/ _ \ '_ \| '_ \ / _ \       | |_) / _ \ '__| '__/ _ \| __| __/ _` |
+ | |_| || | |_| \__ \  __/ |_) | |_) |  __/       |  __/  __/ |  | | | (_) | |_| || (_| |
+  \____|_|\__,_|___/\___| .__/| .__/ \___|        |_|   \___|_|  |_|  \___/ \__|\__\__,_|
+                        |_|   |_|                                                        
+```
+
+<div align="center">
+
+**Computer Science Student | Software Engineer**
+
+</div>
+
+-----
+
+## About Me
+
+```
++----------------------------------+
+|           PROFILE                |
++----------------------------------+
+|  Age:        22 years old        |
+|  Education:  CS Student          |
+|  Focus:      Low-level Systems   |
+|  Learning:   Assembly & Systems  |
++----------------------------------+
+```
+
+- **Passion:** Mathematics and Low-level Programming
+- **Interests:** Algorithms, Data Structures, Performance Optimization
+- **Goal:** Building efficient and elegant solutions
+
+-----
+
+## Tech Stack
+
+```
+    _______________________________________________________________
+   |                                                               |
+   |   LANGUAGES        DATABASES           TOOLS                  |
+   |   ==========       =========           =====                  |
+   |                                                               |
+   |   [Java]           [PostgreSQL]        [Docker]               |
+   |   [Python]         [MongoDB]           [Git]                  |
+   |   [C]                                                         |
+   |_______________________________________________________________|
+```
+
+### Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c" alt="Programming Languages"/>
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" alt="Databases"/>
+</p>
+
+### DevOps and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git" alt="DevOps Tools"/>
+</p>
+
+-----
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giuseppe-perrotta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giuseppe-perrotta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+-----
+
+## Connect With Me
+
+```
+  _____                            _   
+ / ____|                          | |  
+| |     ___  _ __  _ __   ___  ___| |_ 
+| |    / _ \| '_ \| '_ \ / _ \/ __| __|
+| |___| (_) | | | | | | |  __/ (__| |_ 
+ \_____\___/|_| |_|_| |_|\___|\___|\__|
+```
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/giuseppe-perrotta03/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/realsk8erboi17">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+-----
