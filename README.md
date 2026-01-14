@@ -44,16 +44,6 @@
 -----
 
 ## Connect With Me
-
-```
-  _____                            _   
- / ____|                          | |  
-| |     ___  _ __  _ __   ___  ___| |_ 
-| |    / _ \| '_ \| '_ \ / _ \/ __| __|
-| |___| (_) | | | | | | |  __/ (__| |_ 
- \_____\___/|_| |_|_| |_|\___|\___|\__|
-```
-
 <p align="center">
   <a href="https://www.linkedin.com/in/giuseppe-perrotta03/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
