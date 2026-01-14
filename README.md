@@ -44,38 +44,28 @@
    |                                                               |
    |   [Java]           [PostgreSQL]        [Docker]               |
    |   [Python]         [MongoDB]           [Git]                  |
-   |   [C]                                                         |
+   |   [C]              [Redis]                                    |
+   |   [TypeScript]                                                |
+   |   [JavaScript]                                                |
    |_______________________________________________________________|
 ```
 
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,typescript,javascript" alt="Programming Languages"/>
 </p>
 
 ### Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" alt="Databases"/>
 </p>
 
 ### DevOps and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git" alt="DevOps Tools"/>
-</p>
-
------
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giuseppe-perrotta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giuseppe-perrotta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 -----
@@ -99,5 +89,3 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
-
------
