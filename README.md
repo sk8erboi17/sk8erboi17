@@ -1,12 +1,3 @@
-```
-   ____  _                                         ____                      _   _        
-  / ___|(_)_   _ ___  ___ _ __  _ __   ___        |  _ \ ___ _ __ _ __ ___ | |_| |_ __ _ 
- | |  _ | | | | / __|/ _ \ '_ \| '_ \ / _ \       | |_) / _ \ '__| '__/ _ \| __| __/ _` |
- | |_| || | |_| \__ \  __/ |_) | |_) |  __/       |  __/  __/ |  | | | (_) | |_| || (_| |
-  \____|_|\__,_|___/\___| .__/| .__/ \___|        |_|   \___|_|  |_|  \___/ \__|\__\__,_|
-                        |_|   |_|                                                        
-```
-
 <div align="center">
 
 **Computer Science Student | Software Engineer**
@@ -49,24 +40,6 @@
    |   [JavaScript]                                                |
    |_______________________________________________________________|
 ```
-
-### Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,typescript,javascript" alt="Programming Languages"/>
-</p>
-
-### Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" alt="Databases"/>
-</p>
-
-### DevOps and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git" alt="DevOps Tools"/>
-</p>
 
 -----
 
