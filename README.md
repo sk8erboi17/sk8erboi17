@@ -1,52 +1,49 @@
-<div align="center">
+**About Me!**
 
-**Computer Science Student | Software Engineer**
+- 👨🏽‍💻 Giuseppe, 22 years old
+- 🖥️ Computer Science Student | Software Engineer
+- 🧮 Passionate about Mathematics and Low-level Programming
+- 🌱 Currently learning Systems Programming
 
-</div>
+<h2>🔧 Languages and Tools:</h2>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <br>
+  <kbd>
+    <kbd>Tools & DevOps</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </kbd>
+</p>
 
------
-
-## About Me
-
-```
-+----------------------------------+
-|           PROFILE                |
-+----------------------------------+
-|  Age:        22 years old        |
-|  Education:  CS Student          |
-|  Focus:      Low-level Systems   |
-|  Learning:   Assembly & Systems  |
-+----------------------------------+
-```
-
-- **Passion:** Mathematics and Low-level Programming
-- **Interests:** Algorithms, Data Structures, Performance Optimization
-- **Goal:** Building efficient and elegant solutions
-
------
-
-## Tech Stack
-
-```
-    _______________________________________________________________
-   |                                                               |
-   |   LANGUAGES        DATABASES           TOOLS                  |
-   |   ==========       =========           =====                  |
-   |                                                               |
-   |   [Java]           [PostgreSQL]        [Docker]               |
-   |   [Python]         [MongoDB]           [Git]                  |
-   |   [C]              [Redis]                                    |
-   |   [TypeScript]                                                |
-   |   [JavaScript]                                                |
-   |_______________________________________________________________|
-```
-
------
-<p align="center">
+<h2>🌳 Connect with me:</h2>
+<p style="display: inline-block;" align="left">
+  
   <a href="https://www.linkedin.com/in/giuseppe-perrotta03/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
+ 
   <a href="https://t.me/realsk8erboi17">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
   </a>
 </p>
